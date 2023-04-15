@@ -13,5 +13,4 @@ async def predict_performance(data: dict):
     data = pd.DataFrame([data])
     prediction = model.predict(data)[0]
     return {"predicted_average_score": prediction}
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+ 
