@@ -1,0 +1,9 @@
+pandas==1.3.3
+numpy==1.21.2
+scikit-learn==1.0
+streamlit==1.21.0  # Update the Streamlit version
+fastapi==0.70.0
+uvicorn==0.17.1
+requests==2.26.0
+protobuf==3.19.1  # Add protobuf to the requirements
+
